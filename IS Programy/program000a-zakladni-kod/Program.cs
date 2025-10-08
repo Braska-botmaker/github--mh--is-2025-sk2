@@ -7,10 +7,14 @@ while (again == "a")
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine("************* Matěj Horák ******************");
-    Console.WriteLine("************** 2.10.2025 *******************");
+    Console.WriteLine("************** 8.10.2025 *******************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine();
+
+    
+    
+    
 
     
     Console.Write("Zadejte první číslo řady (celé číslo): ");
