@@ -1,0 +1,15 @@
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\bin\Debug\net9.0\program003a-serazeni-dvou-cisel.exe
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\bin\Debug\net9.0\program003a-serazeni-dvou-cisel.deps.json
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\bin\Debug\net9.0\program003a-serazeni-dvou-cisel.runtimeconfig.json
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\bin\Debug\net9.0\program003a-serazeni-dvou-cisel.dll
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\bin\Debug\net9.0\program003a-serazeni-dvou-cisel.pdb
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.AssemblyInfoInputs.cache
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.AssemblyInfo.cs
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.csproj.CoreCompileInputs.cache
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.sourcelink.json
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.dll
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\refint\program003a-serazeni-dvou-cisel.dll
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.pdb
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.genruntimeconfig.cache
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\ref\program003a-serazeni-dvou-cisel.dll
