@@ -1,0 +1,15 @@
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\bin\Debug\net9.0\program004c-kosoctverec.exe
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\bin\Debug\net9.0\program004c-kosoctverec.deps.json
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\bin\Debug\net9.0\program004c-kosoctverec.runtimeconfig.json
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\bin\Debug\net9.0\program004c-kosoctverec.dll
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\bin\Debug\net9.0\program004c-kosoctverec.pdb
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\obj\Debug\net9.0\program004c-kosoctverec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\obj\Debug\net9.0\program004c-kosoctverec.AssemblyInfoInputs.cache
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\obj\Debug\net9.0\program004c-kosoctverec.AssemblyInfo.cs
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\obj\Debug\net9.0\program004c-kosoctverec.csproj.CoreCompileInputs.cache
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\obj\Debug\net9.0\program004c-kosoctverec.sourcelink.json
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\obj\Debug\net9.0\program004c-kosoctverec.dll
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\obj\Debug\net9.0\refint\program004c-kosoctverec.dll
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\obj\Debug\net9.0\program004c-kosoctverec.pdb
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\obj\Debug\net9.0\program004c-kosoctverec.genruntimeconfig.cache
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-kosoctverec\obj\Debug\net9.0\ref\program004c-kosoctverec.dll
