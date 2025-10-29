@@ -1,0 +1,15 @@
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\bin\Debug\net9.0\program004c-#.exe
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\bin\Debug\net9.0\program004c-#.deps.json
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\bin\Debug\net9.0\program004c-#.runtimeconfig.json
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\bin\Debug\net9.0\program004c-#.dll
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\bin\Debug\net9.0\program004c-#.pdb
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\obj\Debug\net9.0\program004c-#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\obj\Debug\net9.0\program004c-#.AssemblyInfoInputs.cache
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\obj\Debug\net9.0\program004c-#.AssemblyInfo.cs
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\obj\Debug\net9.0\program004c-#.csproj.CoreCompileInputs.cache
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\obj\Debug\net9.0\program004c-#.sourcelink.json
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\obj\Debug\net9.0\program004c-#.dll
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\obj\Debug\net9.0\refint\program004c-#.dll
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\obj\Debug\net9.0\program004c-#.pdb
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\obj\Debug\net9.0\program004c-#.genruntimeconfig.cache
+C:\Users\student.mt\Desktop\OSOBNÍ\Skola\treti\github--mh--is-2025-sk2\IS Programy\program004c-#\obj\Debug\net9.0\ref\program004c-#.dll
