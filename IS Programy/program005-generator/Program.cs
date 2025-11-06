@@ -59,13 +59,50 @@ while (again == "a")
     //příprava pro využití třídy random
     Random myRandomNumb = new Random();
 
+    //kladná, záporná čísla, nuly
+    int negativeNumbers = 0;
+    int positiveNumbers = 0;
+    int zeroNumbers = 0;
+
+    //sudá nebo lichá
+    int evenNumbers = 0;
+    int oddNumbers = 0;
+
+
+
     Console.WriteLine();
     Console.WriteLine("Generovaná čísla:");
     for (int i = 0; i < n; i++)
     {
-        myRandomNumbers[i] = myRandomNumb.Next(LowerBound, UpperBound+1);
-        Console.Write("{0}; " ,myRandomNumbers[i]);
-    }
+        myRandomNumbers[i] = myRandomNumb.Next(LowerBound, UpperBound + 1);
+        Console.Write("{0}; ", myRandomNumbers[i]);
+
+        if (myRandomNumbers[i] > 0)
+            positiveNumbers++;
+
+        else if (myRandomNumbers[i] < 0)
+            negativeNumbers++;
+        else
+            zeroNumbers++;
+
+    
+    if (myRandomNumbers[i] % 2 == 0)
+        evenNumbers++;
+    else
+        oddNumbers++;
+}
+    
+
+
+    Console.WriteLine();
+    Console.WriteLine("===============================================================");
+    Console.WriteLine("Souhrn:");
+    Console.WriteLine("Kladných čísel: {0}", positiveNumbers);
+    Console.WriteLine("Záporných čísel: {0}", negativeNumbers);
+    Console.WriteLine("Nul: {0}", zeroNumbers);
+    Console.WriteLine("Sudých čísel: {0}", evenNumbers);
+    Console.WriteLine("Lichých čísel: {0}", oddNumbers);
+    Console.WriteLine("===============================================================");
 
 
 
