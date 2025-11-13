@@ -1,0 +1,14 @@
+# Ignore all files
+*
+
+# But keep directories so we can unignore specific files
+!*/
+
+# Keep any Program.cs files anywhere in the repo
+!**/Program.cs
+!Program.cs
+
+# Keep this gitignore file itself
+!.gitignore
+
+# (Optional) You can add other exceptions below if needed
