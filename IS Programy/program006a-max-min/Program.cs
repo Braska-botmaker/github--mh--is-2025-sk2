@@ -72,33 +72,80 @@ while (again == "a")
     int min = myRandomNumbers[0];
     int posMax = 0;
     int posMin = 0;
-    for (int i = 1; i < n; i++)
-{
-    if (myRandomNumbers[i] > max)
+    
+    
+    for(int i = 1; i < n ; i++)
     {
-        max = myRandomNumbers[i];
-        posMax = i;
+        if(myRandomNumbers[i] > max)  
+        {
+            max = myRandomNumbers[i];
+            posMax = i;
+        }
+        
+        if(myRandomNumbers[i] < min)  
+        {
+            min = myRandomNumbers[i];
+            posMin = i;
+        }
     }
-
-    if (myRandomNumbers[i] < min)
-    {
-        min = myRandomNumbers[i];
-        posMin = i;
-    }
-}
-
 
     Console.WriteLine();
-    Console.WriteLine("========================================================================= ");
-    Console.WriteLine($"Maximum je {max}");
-    Console.WriteLine($"Minimum je {min}");
-    Console.WriteLine($"Pozice maxima je {posMax + 1}");
-    Console.WriteLine($"Pozice minima je {posMin + 1}");
-    Console.WriteLine("=========================================================================");
+    Console.WriteLine("==========================================");
+    Console.WriteLine($"Maximum: {max}");
+    Console.WriteLine($"Pozice maxima: {posMax}");
+    Console.WriteLine($"Minimum: {min}");
+    Console.WriteLine($"Pozice minima: {posMin}");
+    Console.WriteLine("==========================================");
+    Console.WriteLine();
 
     //Vykreslení přesýpacích hodin
+if (max >= 3)
+    {
+        Console.WriteLine();
+        Console.WriteLine("========================================================================= ");
+        Console.WriteLine($"Přesýpací hodiny o velikosti {max}:");
+        Console.WriteLine();
 
+        for (int i = 0; i < max; i++)
+        {
+            int spaces;
+            int stars;
 
+            if (i < max / 2)
+            {
+                // horní polovina
+                spaces = i;
+            }
+            else
+            {
+                // dolní polovina
+                spaces = max - i - 1;
+            }
+
+            stars = max - 2 * spaces;
+
+            for (int j = 0; j < spaces; j++)
+            {
+                Console.Write(" ");
+            }
+
+            for (int j = 0; j < stars; j++)
+            {
+                Console.Write("*");
+            }
+
+            Console.WriteLine();
+        }
+
+        Console.WriteLine("========================================================================= ");
+    }
+    else
+    {
+        Console.WriteLine();
+        Console.WriteLine("========================================================================= ");
+        Console.WriteLine("Přesýpací hodiny pro maximum nelze vykreslit, protože maximum je menší než 3.");
+        Console.WriteLine("========================================================================= ");
+    }
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
