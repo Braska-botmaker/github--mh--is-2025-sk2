@@ -15,39 +15,31 @@ while (again == "a")
     
     
     
-    //načti přesnost
-    Console.Write("Zadejte počet členů řady pro výpočet pí (např. 1000000): ");
-    int precision; 
-
-    while (!int.TryParse(Console.ReadLine(), out precision) || precision <= 0)
-    {
-        Console.Write("Nezadali jste platné číslo. Zadejte počet členů řady znovu: ");
+   Console.Write("Zadejte přesnost (reálné číslo - čím menší hodnota, tím bude výpočet přesnější): ");
+    double presnost;
+    while(!double.TryParse(Console.ReadLine(), out presnost)) {
+        Console.Write("Nezadali jste reálné číslo, zadejte přesnost znovu: ");
     }
 
+    double i = 1;
+    double znamenko = 1;
+    double piCtvrt = 1;
 
-   
+    while((1/i)>=presnost) {
+        i = i + 2;
+        znamenko = -znamenko;
+        piCtvrt = piCtvrt + znamenko * (1/i);
 
-
-
-    // výpočet hodnoty pí
-    double pi = 0.0; 
-    for (int n = 0; n < precision; n++)
-    {
-        double člen = Math.Pow(-1, n) / (2 * n + 1);
-        pi += člen;
+        if(znamenko==1) {
+            Console.WriteLine("Zlomek: +1/{0}; aktuální hodnota PI = {1}", i, 4 * piCtvrt);
+        }
+        else {
+            Console.WriteLine("Zlomek: -1/{0}; aktuální hodnota PI = {1}", i, 4 * piCtvrt);
+        }
     }
 
-
-   
-
-
-
-
-    pi *= 4;
-    Console.WriteLine($"Hodnota pí vypočtená pomocí konvergentní řady je: {pi}");
-
-
-    
+    Console.WriteLine("\n\n Hodnota čísla PI = {0}", 4 * piCtvrt);
+    //Console.WriteLine("\n\n Hodnota čísla PI = {0:f4}", 4 * piCtvrt);
 
 
     Console.WriteLine();
